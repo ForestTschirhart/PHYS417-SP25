@@ -1,1 +1,1 @@
-All my work for phys 417 :)
+All my work for phys 417. Labs each have a folder that contains examples and also the actual lab work. 
